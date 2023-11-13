@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ```
-CPO; Part time Product Owner / Developer / UI/UX Designer / SysAdmin.
+CTO/CPO; Part time Product Owner / Developer / UI/UX Designer / SysAdmin.
 
 Call whatever you want : Cameleon, Swiss knife 🇨🇭 or schizophrenic 🥸.
 
